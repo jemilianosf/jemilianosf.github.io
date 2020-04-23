@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jemilianosf</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on jemilianosf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emiliano Sotelo-Fonseca</title>
+      <link>/2020/04/22/emiliano-sotelo-fonseca/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/22/emiliano-sotelo-fonseca/</guid>
+      <description> Hi
+This is my hello blogdown world. 😄
+Gracias a @josschavezf1 por retomar el proyecto que inicie junto con @EmilianoSotel10 hace tiempo, me da mucho gusto ver como se va consolidando! Gracias tambien a la excelente tutoria de @fellgernon y @areyesq! Un gran equipo! https://t.co/uxbRCOpfka
+&amp;mdash; Carmina Barjon (@BarjonCar) March 1, 2020  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+---
+title: Emiliano Sotelo-Fonseca
+author: jemilianosf
+date: '2020-04-22'
+slug: emiliano-sotelo-fonseca
+categories: []
+tags:
+  - R Markdown
+cover: ''
+description: ''
+keywords:
+  - ''
+  - ''
+showFullContent: no
+---
+
+Hi
+
+This is my hello blogdown world. :smile:
+
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1233929453102714880')
+```

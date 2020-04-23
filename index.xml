@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jemilianosf</title>
+    <link>/</link>
+    <description>Recent content on jemilianosf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emiliano Sotelo-Fonseca</title>
+      <link>/2020/04/22/emiliano-sotelo-fonseca/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/22/emiliano-sotelo-fonseca/</guid>
+      <description> Hi
+This is my hello blogdown world. 😄
+Gracias a @josschavezf1 por retomar el proyecto que inicie junto con @EmilianoSotel10 hace tiempo, me da mucho gusto ver como se va consolidando! Gracias tambien a la excelente tutoria de @fellgernon y @areyesq! Un gran equipo! https://t.co/uxbRCOpfka
+&amp;mdash; Carmina Barjon (@BarjonCar) March 1, 2020  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about_emi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about_emi/</guid>
+      <description>About me:
+Hi! My name is Emiliano Sotelo-Fonseca. I am currently studying for a MSc degree in LANGEBIO, CINVESTAV-IRA working under the supervision of Dr. Selene Fernandez-Valverde and Dr. Kasia Oktaba.
+For my master’s project, I am interested in the 3D genome and bioinformatics. I am analyzing HiC data from Drosophila and Plants to see how genome topology relates (or not) to transcription, and how it impacts genome evolution.
+In the undergraduate program in genomic sciences at UNAM (class of &amp;lsquo;18), I discovered I like coding, #rstats, and thinking about how living beings process information.</description>
+    </item>
+    
+  </channel>
+</rss>
