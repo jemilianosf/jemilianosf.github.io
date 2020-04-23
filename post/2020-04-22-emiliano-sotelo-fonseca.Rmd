@@ -1,5 +1,5 @@
 ---
-title: Emiliano Sotelo-Fonseca
+title: First blogpost
 author: jemilianosf
 date: '2020-04-22'
 slug: emiliano-sotelo-fonseca
@@ -19,6 +19,12 @@ Hi
 This is my hello blogdown world. :smile:
 
 
+Here is a tweet with information on regutools:
+
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1233929453102714880')
 ```
+
+Bottomline: I learned how to insert tweets into blogposts.
+
+
