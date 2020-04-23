@@ -1,0 +1,19 @@
+---
+title: About me
+author: jemilianosf
+date: '2020-04-22'
+slug: about-me
+categories: []
+tags: []
+weight: 1
+---
+
+About me:
+
+Hi! My name is Emiliano Sotelo-Fonseca. I am currently studying for a MSc degree in [LANGEBIO](https://langebio.cinvestav.mx/), [CINVESTAV-IRA](http://www.ira.cinvestav.mx/) working under the supervision of Dr. Selene Fernandez-Valverde and Dr. Kasia Oktaba. 
+
+For my master’s project, I am interested in the 3D genome and bioinformatics. I am analyzing HiC data from Drosophila and Plants to see how genome topology relates (or not) to transcription, and how it impacts genome evolution. 
+
+In the [undergraduate program in genomic sciences at UNAM](https://www.lcg.unam.mx/) (class of '18), I discovered I like coding, #rstats, and thinking about how living beings process information.
+
+Recently, I collaborated with [CDSB Mexico](https://comunidadbioinfo.github.io/) developing the [regutools](https://comunidadbioinfo.github.io/regutools/) R package.

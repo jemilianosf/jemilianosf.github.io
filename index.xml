@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>About me</title>
+      <link>/2020/04/22/about-me/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/22/about-me/</guid>
+      <description>About me:
+Hi! My name is Emiliano Sotelo-Fonseca. I am currently studying for a MSc degree in LANGEBIO, CINVESTAV-IRA working under the supervision of Dr. Selene Fernandez-Valverde and Dr. Kasia Oktaba.
+For my master’s project, I am interested in the 3D genome and bioinformatics. I am analyzing HiC data from Drosophila and Plants to see how genome topology relates (or not) to transcription, and how it impacts genome evolution.</description>
+    </item>
+    
+    <item>
       <title>First blogpost</title>
       <link>/2020/04/22/emiliano-sotelo-fonseca/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
